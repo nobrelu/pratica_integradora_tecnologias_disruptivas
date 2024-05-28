@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f5f5; /* Cor de fundo suave */
+  color: #333333; /* Cor do texto */
+  line-height: 1.6; /* Altura da linha para melhorar a legibilidade */
+  padding: 20px; /* Espaçamento interno */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+  background-color: #e0e0e0; /* Fundo de destaque para o código */
+  color: #d6336c; /* Cor do texto do código */
+  padding: 0.2em 0.4em; /* Espaçamento interno */
+  border-radius: 4px; /* Bordas arredondadas */
+  font-size: 0.95em; /* Tamanho ligeiramente menor */
 }
